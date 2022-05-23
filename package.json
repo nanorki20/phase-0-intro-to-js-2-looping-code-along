@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/learn-co-curriculum/js-looping-and-iteration-looping-code-along.git"
+    "url": "git+https://github.com/learn-co-curriculum/js-looping-and-iteration-looping-code-along.git --bail"
   },
   "keywords": [
     "javascript",
